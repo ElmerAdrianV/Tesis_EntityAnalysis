@@ -1571,8 +1571,8 @@
             "name": "City",
             "type": "LOCATION",
             "metadata": {
-                "mid": "/m/01n32",
-                "wikipedia_url": "https://en.wikipedia.org/wiki/City"
+                "wikipedia_url": "https://en.wikipedia.org/wiki/City",
+                "mid": "/m/01n32"
             },
             "salience": 0.0004437969,
             "mentions": [
@@ -14486,8 +14486,8 @@
             "name": "God",
             "type": "PERSON",
             "metadata": {
-                "mid": "/m/0d05l6",
-                "wikipedia_url": "https://en.wikipedia.org/wiki/God"
+                "wikipedia_url": "https://en.wikipedia.org/wiki/God",
+                "mid": "/m/0d05l6"
             },
             "salience": 5.128452e-05,
             "mentions": [
@@ -19251,8 +19251,8 @@
             "name": "eisenhower",
             "type": "PERSON",
             "metadata": {
-                "mid": "/m/028rk",
-                "wikipedia_url": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower"
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower",
+                "mid": "/m/028rk"
             },
             "salience": 3.520577e-05,
             "mentions": [
@@ -19524,8 +19524,8 @@
             "name": "James Brown",
             "type": "PERSON",
             "metadata": {
-                "mid": "/m/0407f",
-                "wikipedia_url": "https://en.wikipedia.org/wiki/James_Brown"
+                "wikipedia_url": "https://en.wikipedia.org/wiki/James_Brown",
+                "mid": "/m/0407f"
             },
             "salience": 3.357321e-05,
             "mentions": [
@@ -21051,8 +21051,8 @@
             "name": "Orange",
             "type": "LOCATION",
             "metadata": {
-                "wikipedia_url": "https://en.wikipedia.org/wiki/Orange_(colour)",
-                "mid": "/m/0jc_p"
+                "mid": "/m/0jc_p",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Orange_(colour)"
             },
             "salience": 2.6789892e-05,
             "mentions": [
@@ -21309,8 +21309,8 @@
             "name": "John D. rockefeller Jr.",
             "type": "PERSON",
             "metadata": {
-                "wikipedia_url": "https://en.wikipedia.org/wiki/John_D._Rockefeller_Jr.",
-                "mid": "/m/01rs82"
+                "mid": "/m/01rs82",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/John_D._Rockefeller_Jr."
             },
             "salience": 2.4769814e-05,
             "mentions": [
@@ -21792,8 +21792,8 @@
             "name": "Italy",
             "type": "LOCATION",
             "metadata": {
-                "mid": "/m/03rjj",
-                "wikipedia_url": "https://en.wikipedia.org/wiki/Italy"
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Italy",
+                "mid": "/m/03rjj"
             },
             "salience": 2.3749022e-05,
             "mentions": [
@@ -24936,8 +24936,8 @@
             "name": "Jim morrison",
             "type": "PERSON",
             "metadata": {
-                "wikipedia_url": "https://en.wikipedia.org/wiki/Jim_Morrison",
-                "mid": "/m/01w9ph_"
+                "mid": "/m/01w9ph_",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Jim_Morrison"
             },
             "salience": 8.154071e-06,
             "mentions": [
@@ -25013,832 +25013,16 @@
             ]
         },
         {
-            "name": "7",
+            "name": "15",
             "type": "NUMBER",
             "metadata": {
-                "value": "7"
+                "value": "15"
             },
             "salience": 0,
             "mentions": [
                 {
                     "text": {
-                        "content": "7",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "1969",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "1969"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "1969",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "16",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "16"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "16",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "1",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "1"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "1",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "8",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "8"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "8",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "14",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "14"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "14",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "twenty",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "20"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "twenty",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "3",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "3"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "3",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "1",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "1"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "1",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "two",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "2"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "two",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "one",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "1"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "one",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "11",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "11"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "11",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "34",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "34"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "34",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "twenty",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "20"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "twenty",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "4",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "4"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "4",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "1",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "1"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "1",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "50",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "50"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "50",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "19",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "19"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "19",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "26",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "26"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "26",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "12",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "12"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "12",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "29",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "29"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "29",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "36",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "36"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "36",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "one",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "1"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "one",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "one",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "1"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "one",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "three",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "3"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "three",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "5",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "5"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "5",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "one",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "1"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "one",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "19",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "19"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "19",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "50",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "50"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "50",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "one",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "1"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "one",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "3",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "3"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "3",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "8",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "8"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "8",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "17",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "17"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "17",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "24",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "24"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "24",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "22",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "22"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "22",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "four",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "4"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "four",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "14",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "14"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "14",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "one",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "1"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "one",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "29",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "29"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "29",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "5",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "5"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "5",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "21",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "21"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "21",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "22",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "22"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "22",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "one",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "1"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "one",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "28",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "28"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "28",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "one",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "1"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "one",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "one",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "1"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "one",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "one",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "1"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "one",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "16",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "16"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "16",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "one",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "1"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "one",
+                        "content": "15",
                         "beginOffset": -1
                     },
                     "type": "TYPE_UNKNOWN"
@@ -25863,91 +25047,6 @@
             ]
         },
         {
-            "name": "33",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "33"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "33",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "4",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "4"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "4",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "3",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "3"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "3",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "two",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "2"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "two",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "two",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "2"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "two",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
             "name": "11",
             "type": "NUMBER",
             "metadata": {
@@ -25958,873 +25057,6 @@
                 {
                     "text": {
                         "content": "11",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "18",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "18"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "18",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "eighteen",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "18"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "eighteen",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "four",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "4"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "four",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "2",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "2"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "2",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "9",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "9"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "9",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "15",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "15"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "15",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "9",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "9"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "9",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "23",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "23"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "23",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "31",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "31"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "31",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "four",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "4"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "four",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "27",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "27"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "27",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": ".1",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "0.100000"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": ".1",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "15",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "15"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "15",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "1940",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "1940"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "1940",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "35",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "35"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "35",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "2",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "2"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "2",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "one",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "1"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "one",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "30",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "30"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "30",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "one",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "1"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "one",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "28",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "28"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "28",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "20",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "20"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "20",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "10",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "10"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "10",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "1",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "1"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "1",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "12",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "12"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "12",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "13",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "13"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "13",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "1",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "1"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "1",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "a hundred",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "100"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "a hundred",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "27",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "27"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "27",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "32",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "32"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "32",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "two",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "2"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "two",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "17",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "17"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "17",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "1",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "1"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "1",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "two",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "2"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "two",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "two",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "2"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "two",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "one",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "1"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "one",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "11",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "11"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "11",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "one",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "1"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "one",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "2",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "2"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "2",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "11",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "11"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "11",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "3",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "3"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "3",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "26",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "26"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "26",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "two",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "2"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "two",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "14",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "14"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "14",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "20",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "20"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "20",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "one",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "1"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "one",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "17",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "17"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "17",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "2",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "2"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "2",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "two",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "2"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "two",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "two",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "2"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "two",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "two",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "2"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "two",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "4",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "4"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "4",
                         "beginOffset": -1
                     },
                     "type": "TYPE_UNKNOWN"
@@ -26849,16 +25081,866 @@
             ]
         },
         {
-            "name": "23",
+            "name": "one",
             "type": "NUMBER",
             "metadata": {
-                "value": "23"
+                "value": "1"
             },
             "salience": 0,
             "mentions": [
                 {
                     "text": {
-                        "content": "23",
+                        "content": "one",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "10",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "10"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "10",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "30",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "30"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "30",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "14",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "14"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "14",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "1",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "1",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "15",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "15"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "15",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "17",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "17"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "17",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "4",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "4"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "4",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "twenty",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "20"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "twenty",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "one",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "one",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "27",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "27"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "27",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "36",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "36"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "36",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "26",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "26"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "26",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "a hundred",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "100"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "a hundred",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "one",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "one",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "1",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "1",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "24",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "24"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "24",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "6",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "6"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "6",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "2",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "2"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "2",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "9",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "9"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "9",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "14",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "14"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "14",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "29",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "29"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "29",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "two",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "2"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "two",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "3",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "3"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "3",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "four",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "4"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "four",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "5",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "5"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "5",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "2",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "2"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "2",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "one",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "one",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "31",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "31"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "31",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "one",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "one",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "3",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "3"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "3",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "18",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "18"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "18",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "two",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "2"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "two",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "50",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "50"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "50",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "10",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "10"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "10",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "8",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "8"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "8",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "two",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "2"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "two",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "20",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "20"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "20",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "11",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "11"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "11",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "1940",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1940"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "1940",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "17",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "17"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "17",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "three",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "3"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "three",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "a thousand",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1000"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "a thousand",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "one",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "one",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "19",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "19"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "19",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "one",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "one",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "3",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "3"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "3",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "20",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "20"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "20",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "16",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "16"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "16",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "two",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "2"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "two",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "13",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "13"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "13",
                         "beginOffset": -1
                     },
                     "type": "TYPE_UNKNOWN"
@@ -26900,16 +25982,16 @@
             ]
         },
         {
-            "name": "one",
+            "name": "two",
             "type": "NUMBER",
             "metadata": {
-                "value": "1"
+                "value": "2"
             },
             "salience": 0,
             "mentions": [
                 {
                     "text": {
-                        "content": "one",
+                        "content": "two",
                         "beginOffset": -1
                     },
                     "type": "TYPE_UNKNOWN"
@@ -26927,91 +26009,6 @@
                 {
                     "text": {
                         "content": "one",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "21",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "21"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "21",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "6",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "6"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "6",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "10",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "10"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "10",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "a thousand",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "1000"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "a thousand",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "1",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "1"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "1",
                         "beginOffset": -1
                     },
                     "type": "TYPE_UNKNOWN"
@@ -27036,16 +26033,237 @@
             ]
         },
         {
-            "name": "11",
+            "name": "one",
             "type": "NUMBER",
             "metadata": {
-                "value": "11"
+                "value": "1"
             },
             "salience": 0,
             "mentions": [
                 {
                     "text": {
-                        "content": "11",
+                        "content": "one",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "1969",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1969"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "1969",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "two",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "2"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "two",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "2",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "2"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "2",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "1",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "1",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "28",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "28"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "28",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "21",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "21"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "21",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "1",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "1",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "two",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "2"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "two",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "7",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "7"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "7",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": ".1",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "0.100000"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": ".1",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "22",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "22"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "22",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "17",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "17"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "17",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "one",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "one",
                         "beginOffset": -1
                     },
                     "type": "TYPE_UNKNOWN"
@@ -27104,6 +26322,244 @@
             ]
         },
         {
+            "name": "22",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "22"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "22",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "23",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "23"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "23",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "19",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "19"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "19",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "12",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "12"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "12",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "1",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "1",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "one",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "one",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "26",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "26"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "26",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "twenty",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "20"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "twenty",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "2",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "2"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "2",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "16",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "16"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "16",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "21",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "21"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "21",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "four",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "4"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "four",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "1",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "1",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "1",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "1",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
             "name": "18",
             "type": "NUMBER",
             "metadata": {
@@ -27121,6 +26577,210 @@
             ]
         },
         {
+            "name": "one",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "one",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "29",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "29"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "29",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "35",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "35"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "35",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "14",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "14"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "14",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "4",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "4"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "4",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "50",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "50"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "50",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "34",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "34"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "34",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "one",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "one",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "one",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "one",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "one",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "one",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "two",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "2"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "two",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "28",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "28"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "28",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
             "name": "7",
             "type": "NUMBER",
             "metadata": {
@@ -27131,6 +26791,346 @@
                 {
                     "text": {
                         "content": "7",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "27",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "27"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "27",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "four",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "4"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "four",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "11",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "11"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "11",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "one",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "one",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "23",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "23"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "23",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "8",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "8"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "8",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "32",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "32"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "32",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "33",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "33"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "33",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "9",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "9"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "9",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "eighteen",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "18"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "eighteen",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "one",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "one",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "one",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "one",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "two",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "2"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "two",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "3",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "3"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "3",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "11",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "11"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "11",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "two",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "2"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "two",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "5",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "5"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "5",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "12",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "12"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "12",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "11",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "11"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "11",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "4",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "4"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "4",
                         "beginOffset": -1
                     },
                     "type": "TYPE_UNKNOWN"

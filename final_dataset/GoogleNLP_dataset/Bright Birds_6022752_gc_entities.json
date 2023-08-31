@@ -1351,8 +1351,8 @@
             "name": "Farmer Farmer",
             "type": "PERSON",
             "metadata": {
-                "wikipedia_url": "https://en.wikipedia.org/wiki/Farmer",
-                "mid": "/m/0g0vx"
+                "mid": "/m/0g0vx",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Farmer"
             },
             "salience": 0.00051796815,
             "mentions": [
@@ -9370,8 +9370,8 @@
             "name": "City",
             "type": "LOCATION",
             "metadata": {
-                "wikipedia_url": "https://en.wikipedia.org/wiki/City",
-                "mid": "/m/01n32"
+                "mid": "/m/01n32",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/City"
             },
             "salience": 8.047008e-05,
             "mentions": [
@@ -17022,8 +17022,8 @@
             "name": "Pen",
             "type": "PERSON",
             "metadata": {
-                "mid": "/m/0k1tl",
-                "wikipedia_url": "https://en.wikipedia.org/wiki/Pen"
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Pen",
+                "mid": "/m/0k1tl"
             },
             "salience": 4.5269477e-05,
             "mentions": [
@@ -22590,8 +22590,8 @@
             "name": "Central Park",
             "type": "LOCATION",
             "metadata": {
-                "mid": "/m/09c7v",
-                "wikipedia_url": "https://en.wikipedia.org/wiki/Central_Park"
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Central_Park",
+                "mid": "/m/09c7v"
             },
             "salience": 3.3043652e-05,
             "mentions": [
@@ -41905,8 +41905,8 @@
             "name": "Broadway",
             "type": "ORGANIZATION",
             "metadata": {
-                "wikipedia_url": "https://en.wikipedia.org/wiki/Broadway_theatre",
-                "mid": "/m/035y8z"
+                "mid": "/m/035y8z",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Broadway_theatre"
             },
             "salience": 1.4551348e-05,
             "mentions": [
@@ -43873,8 +43873,8 @@
             "name": "Route 66",
             "type": "LOCATION",
             "metadata": {
-                "mid": "/m/0kpw3",
-                "wikipedia_url": "https://en.wikipedia.org/wiki/U.S._Route_66"
+                "wikipedia_url": "https://en.wikipedia.org/wiki/U.S._Route_66",
+                "mid": "/m/0kpw3"
             },
             "salience": 1.36106955e-05,
             "mentions": [
@@ -46080,8 +46080,8 @@
             "name": "Times Square",
             "type": "LOCATION",
             "metadata": {
-                "mid": "/m/07qdr",
-                "wikipedia_url": "https://en.wikipedia.org/wiki/Times_Square"
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Times_Square",
+                "mid": "/m/07qdr"
             },
             "salience": 1.1879891e-05,
             "mentions": [
@@ -47334,8 +47334,8 @@
             "name": "Glass",
             "type": "CONSUMER_GOOD",
             "metadata": {
-                "mid": "/m/039jq",
-                "wikipedia_url": "https://en.wikipedia.org/wiki/Glass"
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Glass",
+                "mid": "/m/039jq"
             },
             "salience": 1.0455891e-05,
             "mentions": [
@@ -47957,8 +47957,8 @@
             "name": "Mr. T",
             "type": "WORK_OF_ART",
             "metadata": {
-                "wikipedia_url": "https://en.wikipedia.org/wiki/Mr._T",
-                "mid": "/m/04s_q"
+                "mid": "/m/04s_q",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Mr._T"
             },
             "salience": 8.38331e-06,
             "mentions": [
@@ -48365,8 +48365,8 @@
             "name": "japanese",
             "type": "LOCATION",
             "metadata": {
-                "mid": "/m/03_9r",
-                "wikipedia_url": "https://en.wikipedia.org/wiki/Japanese_language"
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Japanese_language",
+                "mid": "/m/03_9r"
             },
             "salience": 7.2693556e-06,
             "mentions": [
@@ -50352,8 +50352,8 @@
             "name": "\u00a3 5",
             "type": "PRICE",
             "metadata": {
-                "value": "5.000000",
-                "currency": "GBP"
+                "currency": "GBP",
+                "value": "5.000000"
             },
             "salience": 0,
             "mentions": [
@@ -52836,6 +52836,23 @@
             ]
         },
         {
+            "name": "28",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "28"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "28",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
             "name": "25",
             "type": "NUMBER",
             "metadata": {
@@ -52853,50 +52870,16 @@
             ]
         },
         {
-            "name": "57",
+            "name": "42",
             "type": "NUMBER",
             "metadata": {
-                "value": "57"
+                "value": "42"
             },
             "salience": 0,
             "mentions": [
                 {
                     "text": {
-                        "content": "57",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "1",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "1"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "1",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
-            "name": "28",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "28"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "28",
+                        "content": "42",
                         "beginOffset": -1
                     },
                     "type": "TYPE_UNKNOWN"
@@ -52921,16 +52904,33 @@
             ]
         },
         {
-            "name": "42",
+            "name": "1",
             "type": "NUMBER",
             "metadata": {
-                "value": "42"
+                "value": "1"
             },
             "salience": 0,
             "mentions": [
                 {
                     "text": {
-                        "content": "42",
+                        "content": "1",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "57",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "57"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "57",
                         "beginOffset": -1
                     },
                     "type": "TYPE_UNKNOWN"
@@ -53414,23 +53414,6 @@
             ]
         },
         {
-            "name": "58",
-            "type": "NUMBER",
-            "metadata": {
-                "value": "58"
-            },
-            "salience": 0,
-            "mentions": [
-                {
-                    "text": {
-                        "content": "58",
-                        "beginOffset": -1
-                    },
-                    "type": "TYPE_UNKNOWN"
-                }
-            ]
-        },
-        {
             "name": "981",
             "type": "NUMBER",
             "metadata": {
@@ -53441,6 +53424,23 @@
                 {
                     "text": {
                         "content": "981",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "58",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "58"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "58",
                         "beginOffset": -1
                     },
                     "type": "TYPE_UNKNOWN"
