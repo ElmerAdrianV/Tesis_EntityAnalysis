@@ -1,0 +1,5297 @@
+{
+    "entities": [
+        {
+            "name": "jemimah tilly",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.32373112,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "tilly",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "cocker spaniel",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "tilly",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "jemimah tilly",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "tilly",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "tilly",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "tilly",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "tilly",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "tilly",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "tilly",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "nurse",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mother",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.03870141,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mother",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "sister",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.022175817,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "sister",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Wilson",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.01617992,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "keeffe",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "Wilson",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "Jack o'",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.01617992,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Jack o\u2019",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "majak",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mother",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.015243345,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mother",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.011267895,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.009443256,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.009363253,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.009337642,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "check - up - jemimah",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.009281741,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "check - up - jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "screenplay",
+            "type": "WORK_OF_ART",
+            "metadata": {},
+            "salience": 0.009008335,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "screenplay",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.008387978,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.008175495,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "fix",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0072198263,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "fix",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "father",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.006993347,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "father",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "father",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0066354927,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "father",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "father",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mother",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.006181584,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mother",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mother",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.006174348,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mother",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "int",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.006042034,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "int",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0060192007,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mother",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.005988081,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mother",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mother",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0059282044,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mother",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "family home",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.005910395,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "family home",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "family home",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0058678505,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "family home",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "ext",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.005626551,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "ext",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "back",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0054162215,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "back",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "back",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0052321623,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mother",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0050584488,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mother",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "marge",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.004903056,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "marge",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "marge",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "marge",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Nathan Smith",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.004860511,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Nathan Smith",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "burleigh Smith",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.004860511,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "burleigh Smith",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "bedroom",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.004787137,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "bedroom",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah dad",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0047701797,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah dad",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "puppy",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.004762608,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "puppy",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "puppy",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "glass door",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.004518921,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "glass door",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "nurse 's hat",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0045107817,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "nurse 's hat",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "tone",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.004409937,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "tone",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "work",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "casey binsali",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0042695478,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "casey binsali",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "bed",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.004202558,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "bed",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "arm",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0039826846,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "arm",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "neighbourhood",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.003892711,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "neighbourhood",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "yard",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0038853372,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "yard",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "front",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0038683289,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "front",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah watch",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0038379089,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah watch",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "toy stethoscope",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0038309942,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "toy stethoscope",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "stethoscope",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0038249753,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "stethoscope",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.003525691,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.003508149,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "copyright",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0034657917,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "copyright",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "dog loiter",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0034127873,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "dog loiter",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "cuddle",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0033938633,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "cuddle",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "operation",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.0033902323,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "operation",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "box",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.003366972,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "box",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "rug",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0033597578,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "rug",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "tilly 's heartbeat",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0032596828,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "tilly 's heartbeat",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "tilly",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0031478368,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "tilly",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "father",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.003022917,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "father",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "lot",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0028922155,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "lot",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0023806181,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0023788426,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0023781618,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0023629013,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.002361844,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0023562072,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0023242028,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0023147052,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "int",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0022396706,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "int",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "int",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0022378124,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "int",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mother",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.002223183,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mother",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0021797772,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0021786594,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "family home",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0021775533,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "family home",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0021755642,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "brother",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0021746703,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "brother",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah stare",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0021632004,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah stare",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0021422082,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "tilly",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0021351066,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "tilly",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "youths",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.002104425,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "youths",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "father sweetheart",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0020880997,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "father sweetheart",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "house",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.001978425,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "house",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "house",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0019682783,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "house",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "father",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0018755932,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "father",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "car",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0016901108,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "car",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "father",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0016875955,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "father",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "father",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0016490528,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "father",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0016345741,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.001633718,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0016321089,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.001631853,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "television",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0016243022,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "television",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "father",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.001612112,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "father",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "browser",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0015989069,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "browser",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Randy",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0015586889,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Randy",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "think",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0015574296,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "think",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mother",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0015548834,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mother",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mother",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0015460533,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mother",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "sister",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0015421063,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "sister",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "sister",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0015415222,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "sister",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mother",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0015409557,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mother",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "s",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0015262739,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "s",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "int",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0015161925,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "int",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "int",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0015036861,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "int",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "brother",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.001476555,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "brother",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "family home",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.001476089,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "family home",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "tilly",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0014661745,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "tilly",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "brother",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0014652103,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "brother",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "brother",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0014645424,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "brother",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "brother",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0014638985,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "brother",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "brother",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0014626767,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "brother",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "brother",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0014618124,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "brother",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "family",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0014607217,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "family",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "thermometer",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0014522717,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "thermometer",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "paddle pop stick",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0014510799,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "paddle pop stick",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "heart",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0014447317,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "heart",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "puppy",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0014328889,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "puppy",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "ext",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0014319605,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "ext",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "puppy",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0014296366,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "puppy",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "sister",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0014251686,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "sister",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "sister",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0014248069,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "sister",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "sister",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0014244525,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "sister",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "sister",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0014234311,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "sister",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "room - night",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.0014181631,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "room - night",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "int",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0013871043,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "int",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "brother",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0013494706,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "brother",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "family home",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0013488496,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "family home",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "father change channel",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0013350219,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "father change channel",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "television",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0013347887,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "television",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "father change channel",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0013345589,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "father change channel",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "television",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0013343324,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "television",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "father change channel",
+            "type": "ORGANIZATION",
+            "metadata": {},
+            "salience": 0.0013343324,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "father change channel",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "house",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0013318345,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "house",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "television",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0013191567,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "television",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "channel",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0013189196,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "channel",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "television",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0013189196,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "television",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "television",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.001318686,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "television",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "puppy",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0013110521,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "puppy",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "ext",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0013092303,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "ext",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "television",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0013016589,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "television",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "puppies",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0012940024,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "puppies",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "dog",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0012761045,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "dog",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mouth",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0012683278,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mouth",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "difficulty",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0012672868,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "difficulty",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "smell",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0012663116,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "smell",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "back",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0012656488,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "back",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "blood pressure monitor",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0012653946,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "blood pressure monitor",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "neck",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0012649557,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "neck",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "room",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0012649008,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "room",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "whimper",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0012645291,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "whimper",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "room",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0012641876,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "room",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah mum",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0012625572,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah mum",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "lie",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0012604832,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "lie",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "undercarriage",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0012604832,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "undercarriage",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "lollypop",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0012329714,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "lollypop",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0012217036,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "house",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0012209977,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "house",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "photo 's background",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0011688252,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "photo 's background",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "dog",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0011686776,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "dog",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "sister",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0011559328,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "sister",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0011414421,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0011408513,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.001140127,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0011398167,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "car",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0011373563,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "car",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "tonsils",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0011343565,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "tonsils",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "bedroom",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0011131223,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "bedroom",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "brother",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0011074614,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "brother",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "baby",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.001099649,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "baby",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0010993992,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0010984078,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "chop",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0010860239,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "chop",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "fuck",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0010855286,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "fuck",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "insulin",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0010758105,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "insulin",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "accent",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0010688,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "accent",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "vet accent",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.001068621,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "vet accent",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "screen",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0010682702,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "screen",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "head",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0010680982,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "head",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "photo",
+            "type": "WORK_OF_ART",
+            "metadata": {},
+            "salience": 0.0010669545,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "photo",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "stand",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.001066799,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "stand",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0010646041,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "head",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0010580575,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "head",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "parent",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0010574321,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "parent",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "documentary accent",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0010564532,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "documentary accent",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "lemonade stand",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0010543695,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "lemonade stand",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "int",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0010406267,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "int",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "family home",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0010129751,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "family home",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "ext",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0009826185,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "ext",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "ext",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0009820284,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "ext",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "chainsaw massacre house - night",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.0009819465,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "chainsaw massacre house - night",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "photo",
+            "type": "WORK_OF_ART",
+            "metadata": {},
+            "salience": 0.0009772338,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "photo",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "bed",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.000976623,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "bed",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "front yard",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0009736615,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "front yard",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "table",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0009736615,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "table",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "neighbour",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0009732202,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "neighbour",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "sign",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00097293494,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "sign",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "sign",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00097293494,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "sign",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "dinner table",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0009643919,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "dinner table",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "silence",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00096420787,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "silence",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "front",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0009636723,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "front",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "chainsaw massacre house",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.00091386866,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "chainsaw massacre house",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "dog breeding site",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0009018756,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "dog breeding site",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "computer",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0008914787,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "computer",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "walk",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.0008910213,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "walk",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "watch",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.00089058245,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "watch",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "street corner",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.00089016074,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "street corner",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "clothes",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00089016074,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "clothes",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0008841584,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Dog",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0008762018,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Dog",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "room",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0008754825,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "room",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "English",
+            "type": "OTHER",
+            "metadata": {
+                "wikipedia_url": "https://en.wikipedia.org/wiki/English_language",
+                "mid": "/m/02h40lc"
+            },
+            "salience": 0.00086408324,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "English",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "English",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "sweat",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0008563846,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "sweat",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "beat",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0008563846,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "beat",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "exercise instructor",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0008563846,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "exercise instructor",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mom",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0008560917,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mom",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "wide - eye",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00085566717,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "wide - eye",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "teenager laugh",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00085461326,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "teenager laugh",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "floor",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.00085412385,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "floor",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "elephant",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0008469855,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "elephant",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "belly",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0008466646,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "belly",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "rest",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0008463534,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "rest",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "rhinoceros",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00084620126,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "rhinoceros",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "home cooking voice",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0008460513,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "home cooking voice",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "way",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0008460513,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "way",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "'s lead",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0008389346,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "'s lead",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "sister 's dating profile",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00083256,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "sister 's dating profile",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "look",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00081387634,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "look",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "door",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00078691915,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "door",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "door",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00078645296,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "door",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "door",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00078632386,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "door",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "nurse",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0007860085,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "nurse",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "whisper",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0007831535,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "whisper",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "picture",
+            "type": "WORK_OF_ART",
+            "metadata": {},
+            "salience": 0.00078274315,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "picture",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "satisfaction",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00078254443,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "satisfaction",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "ball",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00078254443,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "ball",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "bone",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00078254443,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "bone",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "helo",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00078254443,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "helo",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "add",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00078254443,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "add",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "information",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00078254443,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "information",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "cupboard",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0007823498,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "cupboard",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "bra",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0007822539,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "bra",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "leather skirt",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0007822539,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "leather skirt",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "fishnet",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0007822539,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "fishnet",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "stocking",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0007822539,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "stocking",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "home",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0007818799,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "home",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "dress",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0007817886,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "dress",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "father slam",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0007816982,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "father slam",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "brake",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0007816982,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "brake",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "R",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00074816466,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "R",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "sister",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00074638316,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "sister",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "bed",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00073285116,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "bed",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "int",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0007270165,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "int",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "int",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00072655996,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "int",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "drink",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0007233722,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "drink",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "dot com",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00072237884,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "dot com",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0007177343,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jemimah",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00071641593,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jemimah",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "home",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.00070694095,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "home",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "family home",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0007067921,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "family home",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "family home",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0007065497,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "family home",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "car - night",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.0006857417,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "car - night",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "ext",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00068559655,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "ext",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "puppies",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00068522134,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "puppies",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "puppy",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00067744567,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "puppy",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "youth",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00066801487,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "youth",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "kid",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00066801487,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "kid",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "junk litter",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.00066751963,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "junk litter",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "some",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00066710345,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "some",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "tilly",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0006445649,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "tilly",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "marge",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00063882826,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "marge",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "stranger",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0006375436,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "stranger",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "bottle shop",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0005867822,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "bottle shop",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "group",
+            "type": "ORGANIZATION",
+            "metadata": {},
+            "salience": 0.0005867318,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "group",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "lead",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0005864369,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "lead",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "lock",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0005863889,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "lock",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "corridor",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.00058629387,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "corridor",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "sound",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00058624684,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "sound",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "dog bark",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00058624684,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "dog bark",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "woman",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0005861537,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "woman",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "bitches",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.000585926,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "bitches",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "confusion",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00058588135,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "confusion",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "girl",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00058588135,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "girl",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "sister nurse",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00054887234,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "sister nurse",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "parent",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0005115988,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "parent",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "parent",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00051116175,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "parent",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Internet dating site",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0005109203,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Internet dating site",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "american",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0005057657,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "american",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "mummy",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00050512684,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mummy",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "police",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0005047693,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "police",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "plan",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0005045644,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "plan",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "father",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0005018829,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "father",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "father",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0005007298,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "father",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "house",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.00049555226,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "house",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "car",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0004794954,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "car",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mother",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00046949624,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mother",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "sister",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0004693957,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "sister",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "corner",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.00046661083,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "corner",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "marge drive",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00046634043,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "marge drive",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "driveway",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0004662099,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "driveway",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "baby",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00046605087,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "baby",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "litter",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.00046601958,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "litter",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "int",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00045691943,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "int",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "int",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00045662216,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "int",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "TEXAS",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.00044566512,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "TEXAS",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "TEXAS",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "family",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00044428007,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "family",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "room - night",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.00043096615,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "room - night",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "puppy",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00042577216,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "puppy",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "moan",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00040988767,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "moan",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "basket",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00040982608,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "basket",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "stomach",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0004097956,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "stomach",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "sleep",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0004097956,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "sleep",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "point",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0004097956,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "point",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "bit",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00040973516,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "bit",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "smile",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00040967544,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "smile",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "beam",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0004095292,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "beam",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "de-sex",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0004047495,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "de-sex",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "luck",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00040423954,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "luck",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "kid",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0004019395,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "kid",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "look",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00039691236,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "look",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "room",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0003851992,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "room",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "bedroom",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0003664087,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "bedroom",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "clothes",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00033608734,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "clothes",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "dating site",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0003217256,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "dating site",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "lemonade stand",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0003212555,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "lemonade stand",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "head",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0003212261,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "head",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "'s coat",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0003175095,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "'s coat",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "computer",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0002934413,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "computer",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "silence",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0002930638,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "silence",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "brother check",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0002930091,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "brother check",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "hello",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00025765604,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "hello",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "user type",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0002576036,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "user type",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "brush",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.00025752652,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "brush",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "phone",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.00025732984,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "phone",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "chat message",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00025452822,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "chat message",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "2014",
+            "type": "DATE",
+            "metadata": {
+                "year": "2014"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "2014",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "2014",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "2014"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "2014",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "0",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "0"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "0",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "0",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "0"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "0",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "five",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "5"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "five",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "one",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "one",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "0",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "0"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "0",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}
