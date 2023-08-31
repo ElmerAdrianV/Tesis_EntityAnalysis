@@ -1,0 +1,6724 @@
+{
+    "entities": [
+        {
+            "name": "screw -up",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.5565454,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "screw -up",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "softy",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "asshole",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "asshole",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Tracy",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.059240293,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Tracy",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Tracy",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Tracy",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Tracy",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Tracy",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Tracy",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Tracy",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Tracy",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Tracy",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Tracy",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Tracy",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Tracy",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "ryan Tracy",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.018716525,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "ryan",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Ryan",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Ryan",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "ryan",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "ryan",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "ryan",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "ryan",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "ryan",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "ryan Tracy",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "ryan",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "ryan",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "ryan",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "ryan",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "ryan",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Ryan",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "ryan",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "ryan",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Ryan",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "ryan",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "ryan",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "ryan",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Ryan",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Ryan",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Ryan",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "rick James",
+            "type": "PERSON",
+            "metadata": {
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Rick_James",
+                "mid": "/m/024qwq"
+            },
+            "salience": 0.018152332,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "James",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "rick James",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "James",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "James",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "James",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "James",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "James",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "James",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "James",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "James",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "James",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "James",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "James",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "James",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "James",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "James",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "camp",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0070552384,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "camp",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "tracy Mike",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.006947644,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Mike",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Mike",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Mike",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Mike",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "tracy Mike",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "tracy Mike",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Mike",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Mike",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Mike",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "moorehouse",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0060299593,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "moorehouse",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "moorehouse",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Sophie",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0057472987,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Sophie",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Sophie",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Sophie",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Sophie",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Sophie",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "jame",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0055500213,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jame",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "jame",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "d",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "jame",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "murder",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.005199329,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "murder",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "sign",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0048781564,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "sign",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mike",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.004674968,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mike",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "screenplay",
+            "type": "WORK_OF_ART",
+            "metadata": {},
+            "salience": 0.0044160993,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "screenplay",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "elvis",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0041812696,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "elvis",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "man",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "sophie",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.003689456,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "sophie",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "tracy Jason",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0033969046,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "tracy Jason",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "jason",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "jason",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Jason",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Jason",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Jason",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "tracy",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0033430199,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "tracy",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "tracy",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "tracy",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "mike trace",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0031775795,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mike trace",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "wood",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0030990862,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "wood",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "wood",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0030796719,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "wood",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "wood",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0030669505,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "wood",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mike",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0030368236,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mike",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mask man",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0030257779,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mask man",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "face",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0028394759,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "face",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jason",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0028314197,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jason",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "elvis",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0028231412,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "elvis",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "d",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "elvis",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0026165706,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "elvis",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "brother",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0025667443,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "brother",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "machine",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0025518504,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "machine",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "girl stand",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0025173402,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "girl stand",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "ryan James",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0024773942,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "ryan James",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "rick",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.002475454,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "rick",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Rick",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Rick",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "head counselor",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0024034304,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "head counselor",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mike",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0023829166,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mike",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "boy",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0023490875,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "boy",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "eye",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0022972005,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "eye",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "John R. stevenson",
+            "type": "PERSON",
+            "metadata": {
+                "mid": "/m/02q1_bq"
+            },
+            "salience": 0.0022929867,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "John R. stevenson",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "face",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.002283952,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "face",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "guy",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0022786458,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "guy",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "guy",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "lodge",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.002270005,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "lodge",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "blood",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0022612724,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "blood",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "strike",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.0022554111,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "strike",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "eye",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0022521492,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "eye",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "bed",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0022521492,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "bed",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "head",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0022444674,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "head",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "man stand",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0022120972,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "man stand",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "trevor",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00217047,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "trevor",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "content": "son",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Angela",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0021281189,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Angela",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Angela",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "Angela",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "awe",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0021009431,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "awe",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "home",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0020706868,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "home",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mouth",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0020624099,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mouth",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "rip",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0019251403,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "rip",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "roommate stare",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0019159741,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "roommate stare",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "snow",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0018610986,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "snow",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "foot",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0018610986,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "foot",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "pace",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0018361016,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "pace",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "light",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0018296115,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "light",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "hill",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.001826961,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "hill",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "dad",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0018187105,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "dad",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "ryan Angela",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0018170683,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "ryan Angela",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "chest",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.001810235,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "chest",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "int",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0018050371,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "int",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "dream",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0018008376,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "dream",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "hurry",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.001796051,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "hurry",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "porch",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0017931783,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "porch",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "hug",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0017931783,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "hug",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "volunteer",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00172487,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "volunteer",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mike",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0014660917,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mike",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "claim",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0014340119,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "claim",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "neck",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0013891925,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "neck",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "boyfriend",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0013677545,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "boyfriend",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "release",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.0013571717,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "release",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "d",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0012900786,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "d",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "d",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0012890963,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "d",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "d",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0012837673,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "d",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "money",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0012770725,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "money",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mike",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0012541735,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mike",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "trace",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0012438621,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "trace",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "v.o.",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0011983312,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "v.o.",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "content": "v.o.",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "friend",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0011898534,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "friend",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mike",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0011873184,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mike",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mike",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0011806111,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mike",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "everybody",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0011694296,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "everybody",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "everybody",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0011669755,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "everybody",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "everyone",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.001166423,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "everyone",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "everyone",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0011630616,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "everyone",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "everyone",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0011626404,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "everyone",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jame",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0011384314,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jame",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jame",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0011382506,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jame",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mike",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0010888693,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mike",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mike",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0010887898,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mike",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mike",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0010885539,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mike",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mike",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.001088399,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mike",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mike",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0010883221,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mike",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mike",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0010877233,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mike",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mike",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0010873624,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mike",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mike",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0010865344,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mike",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mike",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0010863352,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mike",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "lot",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0010815217,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "lot",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "lot",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0010806627,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "lot",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "tracy Mom",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0010746602,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "tracy Mom",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "mumble",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0010643937,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mumble",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "fire",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.0010641277,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "fire",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "guy",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.001056395,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "guy",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mike",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0010480685,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mike",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "chain",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0010149513,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "chain",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "wee",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0010073454,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "wee",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mike",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0010054775,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mike",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "shit",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00095691433,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "shit",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mike",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0009558756,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mike",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "leaf blower",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0009437408,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "leaf blower",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "sophie",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00093598355,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "sophie",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mike",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0009269595,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mike",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "each other",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00090780633,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "each other",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "counselor",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00090780633,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "counselor",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "thing",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00090429763,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "thing",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "blanket",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0009041223,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "blanket",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "sophie",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.000902472,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "sophie",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "everyone",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0008861072,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "everyone",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "weather",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00088404707,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "weather",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "all",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0008837981,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "all",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "d",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00087037444,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "d",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "scholarship",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0008643478,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "scholarship",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "d",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00086160336,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "d",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "d",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0008602523,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "d",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "man",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0008592144,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "man",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "place",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0008454438,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "place",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "place",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0008447722,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "place",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mike",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0008349973,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mike",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "elvis",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00083107065,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "elvis",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "elvis",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00082936906,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "elvis",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "fault",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0008288518,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "fault",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "elvis",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0008287742,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "elvis",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "camp",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0008217292,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "camp",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "elvis",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0008214731,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "elvis",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mike",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0008149612,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mike",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "elvis",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0008008524,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "elvis",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "chicken shit",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00079976127,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "chicken shit",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "chicken shit",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00079968525,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "chicken shit",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jame",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00079924864,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jame",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "d",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00079537585,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "d",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "shit",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00079067727,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "shit",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "everyone",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0007874885,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "everyone",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jame",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00078242266,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jame",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "everything",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00078034593,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "everything",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "work",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00077105284,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "work",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "care",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00077055057,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "care",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "work",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0007704403,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "work",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "hand",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0007702447,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "hand",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "hand",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0007702447,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "hand",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "blanket",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00077023427,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "blanket",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "family friend",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0007700531,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "family friend",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "everyone awe",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00076914986,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "everyone awe",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "shed",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0007666031,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "shed",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "leaf blower",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.00076560915,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "leaf blower",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "elvis",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0007584194,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "elvis",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "enthusiasm",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00071735,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "enthusiasm",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Mike",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00070325925,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Mike",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "wood",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0006985942,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "wood",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "set",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00067647075,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "set",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "guy 's shoulder",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00067647075,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "guy 's shoulder",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "way",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00067566184,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "way",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "all",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0006754609,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "all",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "stick",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0006753593,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "stick",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "wood chipper",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00067327236,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "wood chipper",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "rain",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00067271595,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "rain",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "motor",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00067271595,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "motor",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "head",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00066567236,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "head",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "nothing",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0006653172,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "nothing",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "something",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0006472857,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "something",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "brother",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0006472341,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "brother",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "s cabin",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0006468821,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "s cabin",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "bull shit",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00064387545,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "bull shit",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "game",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.0006122124,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "game",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "murder",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.0006122124,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "murder",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "yep",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00061157194,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "yep",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mike yep",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00061157194,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mike yep",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "murder",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.00061043596,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "murder",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "blanket",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00060686545,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "blanket",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "each other",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0006061755,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "each other",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "each other",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0006054115,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "each other",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "brother",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0005924453,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "brother",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "cabin",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.00059225183,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "cabin",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "brother",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0005919161,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "brother",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "somebody",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00059184356,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "somebody",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jame",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0005800713,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jame",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "bit",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00057782145,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "bit",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "blanket",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00057703874,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "blanket",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "tree",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0005757755,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "tree",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "bed",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0005690461,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "bed",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "elvis",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00056883343,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "elvis",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "people",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0005685235,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "people",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "ass",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0005657272,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "ass",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "kind",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0005646542,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "kind",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "eye",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00056391495,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "eye",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "series",
+            "type": "WORK_OF_ART",
+            "metadata": {},
+            "salience": 0.00056123565,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "series",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jame",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0005458096,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jame",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "trevor",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0005399887,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "trevor",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "everybody",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00053964905,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "everybody",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "wood",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00052352826,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "wood",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "man",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00052311545,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "man",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mike",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.00052088965,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mike",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "home",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.00051999406,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "home",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "fine",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0005191067,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "fine",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "each",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0005165044,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "each",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "girlfriend",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00051572034,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "girlfriend",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "kid",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0005149647,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "kid",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "end",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00051477354,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "end",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "kid",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00051429047,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "kid",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "toast",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0005139512,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "toast",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "end",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0005138421,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "end",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "toast",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00051378825,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "toast",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "fun",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00051270763,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "fun",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "ext",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00048745007,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "ext",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "family situation",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00047481462,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "family situation",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "family situation",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00047474893,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "family situation",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "laughter",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00047421874,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "laughter",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mommy",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00045668118,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mommy",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "daddy",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00045668118,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "daddy",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "adult pursuit",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00045668118,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "adult pursuit",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mischief",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00045658898,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mischief",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "idea",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0004564983,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "idea",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "canoe paddle",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.000453258,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "canoe paddle",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "look",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00045319035,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "look",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "help",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0004520413,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "help",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "line",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0004520413,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "line",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "frame",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00045132582,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "frame",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "camper 's puke",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00045118394,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "camper 's puke",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "sophie",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0004486249,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "sophie",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "sophie",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00044853977,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "sophie",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "bastard",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00044556984,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "bastard",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "tree",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0004445319,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "tree",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "tree",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0004441021,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "tree",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "tree",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00044408246,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "tree",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "tree",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0004440629,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "tree",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "thing",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0004428419,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "thing",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "thing",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00044255573,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "thing",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "game",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.00041971932,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "game",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "murder",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.00041969764,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "murder",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "game",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0004195066,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "game",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "game",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.0004193831,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "game",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "group",
+            "type": "ORGANIZATION",
+            "metadata": {},
+            "salience": 0.00041932246,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "group",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "group",
+            "type": "ORGANIZATION",
+            "metadata": {},
+            "salience": 0.00041918372,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "group",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "group",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0004189543,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "group",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "idiot",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0004172698,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "idiot",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "run",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.0004172698,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "run",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "front",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00041680253,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "front",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "attention",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00041666493,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "attention",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "off",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.00041653097,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "off",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "distance",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00041653097,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "distance",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "d",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0004160651,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "d",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "man",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00041366767,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "man",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "hockey - mask figure",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00040943525,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "hockey - mask figure",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "usc",
+            "type": "ORGANIZATION",
+            "metadata": {},
+            "salience": 0.00039916427,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "usc",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "camp",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.00039715628,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "camp",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "honors",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0003954705,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "honors",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "body",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00039267685,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "body",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "nothing",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00039050003,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "nothing",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "blindfold",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0003903683,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "blindfold",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "blindfold",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00039013292,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "blindfold",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "nothing",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00039011528,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "nothing",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "people",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0003900454,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "people",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "blood",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00038994246,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "blood",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "elvis",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0003880267,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "elvis",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mike",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.000386769,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mike",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "trevor",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00037709886,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "trevor",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mask man",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00036576355,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mask man",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "man",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00036540435,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "man",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "blindfold",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00036290174,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "blindfold",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jame",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00036041767,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jame",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mike",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00035854778,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mike",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mouth",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0003557509,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mouth",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "axe",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00035554857,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "axe",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "beer",
+            "type": "CONSUMER_GOOD",
+            "metadata": {},
+            "salience": 0.0003548163,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "beer",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jame",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00034351903,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jame",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jame",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00034335864,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jame",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jame",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00034328067,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jame",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jame",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0003430552,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jame",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mask",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00034081834,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mask",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "guy",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00034017846,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "guy",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "ext",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00033995832,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "ext",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "last",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00033582034,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "last",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jame",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00033071815,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jame",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jame",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0003227223,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jame",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "camper",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00031966795,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "camper",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "loser",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0003195425,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "loser",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "course",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0003129414,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "course",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "jimbo",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00031289374,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "jimbo",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "matter",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00031289374,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "matter",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "anything",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00031289374,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "anything",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "scare",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00031284665,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "scare",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "pretty lady",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0003128001,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "pretty lady",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "middle",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00031269374,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "middle",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "rest",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00031241917,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "rest",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "location",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.00031240526,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "location",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "gasp",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0003123914,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "gasp",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "peek",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00031237758,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "peek",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "horror",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00031226882,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "horror",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "something",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.000310517,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "something",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "brother",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00031049098,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "brother",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "trevor moorehouse",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00031040132,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "trevor moorehouse",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "cabin",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.00031016814,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "cabin",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "change of heart",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00030903253,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "change of heart",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "psychopath",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00029290662,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "psychopath",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "psychopath",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0002928456,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "psychopath",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "ground",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0002926916,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "ground",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "blood",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0002726384,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "blood",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "asshole",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00027237926,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "asshole",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "thing",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00026980005,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "thing",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Jesus",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.0002691398,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Jesus",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "guy",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00025133506,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "guy",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "axe",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0002487478,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "axe",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "laughter",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0002487372,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "laughter",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "fuck",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0002484937,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "fuck",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "fucker",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0002484646,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "fucker",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mike Fine",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00024609664,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mike Fine",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "fun",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00024562018,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "fun",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "summer camp",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.00024091442,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "summer camp",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "man",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00022997,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "man",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "psychopath",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00022686283,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "psychopath",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "air",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00021845798,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "air",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "expense",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00021838452,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "expense",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "baby",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00021837548,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "baby",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "dress",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00021837548,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "dress",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "cry",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00021833963,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "cry",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "bitch",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00021820083,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "bitch",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "guy",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00021391542,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "guy",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "several",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00020120166,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "several",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "Mike gag",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0001962466,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Mike gag",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "something",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00019501476,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "something",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "trevor moorehouse",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00019276435,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "trevor moorehouse",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "compton",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.00018453342,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "compton",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "counselor",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00018419107,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "counselor",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "counselor",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00018418024,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "counselor",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "psychopath",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00018399378,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "psychopath",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "plan",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00017570729,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "plan",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "mike somebody",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00017149803,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "mike somebody",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "face",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00017140858,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "face",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "point",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00017137002,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "point",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "place",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00017136049,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "place",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "people",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00017136049,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "people",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "ass",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00017134155,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "ass",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "bed",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00017131348,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "bed",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "hospital",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0001563402,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "hospital",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "hospital",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.0001562872,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "hospital",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "pine",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00015627852,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "pine",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "wood story",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00015619372,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "wood  story",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "dent",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00013737449,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "dent",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "sex life",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00013737449,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "sex life",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "camp director",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00013735003,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "camp director",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "control",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0001373339,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "control",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "bottom",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0001373339,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "bottom",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "ravine",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0001373339,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "ravine",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "bird",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0001373339,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "bird",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "revenge",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.00013724797,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "revenge",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "try",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00013721778,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "try",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "boy",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.00013721778,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "boy",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "\u0153psychopath",
+            "type": "LOCATION",
+            "metadata": {},
+            "salience": 0.00013717351,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "\u0153psychopath",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "sport fan",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00013713748,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "sport fan",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "habit",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.0001356686,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "habit",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "God",
+            "type": "PERSON",
+            "metadata": {
+                "mid": "/m/0d05l6",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/God"
+            },
+            "salience": 0.00012897425,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "God",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "story",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.00011637581,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "story",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "trevor moorehouse",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.000115376075,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "trevor moorehouse",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "pine",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 8.7659646e-05,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "pine",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "0",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "0"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "0",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "two",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "2"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "two",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "Three",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "3"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Three",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "one",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "one",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "five",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "5"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "five",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "15",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "15"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "15",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "11",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "11"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "11",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "2",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "2"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "2",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "two",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "2"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "two",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "one thousand",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1000"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "one thousand",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "16",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "16"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "16",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "2",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "2"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "2",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "one",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "one",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "17",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "17"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "17",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "one thousand",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1000"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "one thousand",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "two",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "2"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "two",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "14",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "14"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "14",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "five",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "5"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "five",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "10",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "10"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "10",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "20",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "20"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "20",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "one",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "one",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "13",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "13"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "13",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "eighteen",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "18"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "eighteen",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "nineteen",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "19"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "nineteen",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "twenty - one thousand",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "21000"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "twenty - one thousand",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "12",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "12"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "12",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "three",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "3"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "three",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "one",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "one",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "one thousand",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1000"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "one thousand",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "one thousand",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1000"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "one thousand",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "one",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "one",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "one thousand",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1000"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "one thousand",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "0",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "0"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "0",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "four",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "4"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "four",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "one thousand",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1000"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "one thousand",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "ten",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "10"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "ten",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "one",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "one",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "one thousand",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "1000"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "one thousand",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        },
+        {
+            "name": "six",
+            "type": "NUMBER",
+            "metadata": {
+                "value": "6"
+            },
+            "salience": 0,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "six",
+                        "beginOffset": -1
+                    },
+                    "type": "TYPE_UNKNOWN"
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}
